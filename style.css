@@ -48,7 +48,7 @@ body {
 }
 body {
     font-family: "Roboto", sans-serif;
-    background-color: #fff;
+    background-color: #E8E2F9;
     color: #333;
     font-size: 15px;
     line-height: 1.42857;
@@ -260,12 +260,12 @@ ul > li > a {
  -----------------------*/
 
 .header_area2.sticker {
-    background: #fff;
+    background: #E8E2F9;
     padding: 25px 10px;
     z-index: 999;
 }
 .header_area2.stick {
-    background: #fff;
+    background: #E8E2F9;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
     padding: 20px 0;
     position: fixed;
@@ -709,7 +709,7 @@ margin-top:20px;
     color: #1b98e0;
 }
 .panel-heading h4 a.collapsed {
-    background: #fff none repeat scroll 0 0;
+    background: #E8E2F9 none repeat scroll 0 0;
     color: #4f4f4f;
 }
 .panel-heading h4 a.collapsed:before {
@@ -844,7 +844,7 @@ margin-top:20px;
     color: #fff;
 }
 .home_3 .single_feature:hover .feature_icon i {
-    background: #fff;
+    background: #E8E2F9;
     border-color: #fff;
     color: #1b98e0;
 }
@@ -906,7 +906,7 @@ margin-top:20px;
  ----------------------------*/
 
 .portfolio_area {
-    background: #f8f8f8 none repeat scroll 0 0;
+    background: #E8E2F9 none repeat scroll 0 0;
     border-bottom: 1px solid #e1e1e1;
     border-top: 1px solid #e1e1e1;
     padding: 95px 0 100px;
@@ -1041,7 +1041,7 @@ margin-top:20px;
     transform: scale(0);
 }
 .portfolio_icon a:hover {
-    background: #fff;
+    background: #E8E2F9;
     color: #44b272;
 }
 .single_portfolio:hover .portfolio_icon a {
@@ -1378,7 +1378,7 @@ margin-top:20px;
  --------------------*/
 
 .team-icon a:hover {
-    background: #fff;
+    background: #E8E2F9;
     color: #44b272;
 }
 .single-team:hover .team-icon {
@@ -1401,7 +1401,7 @@ margin-top:20px;
     background: #1b98e0 none repeat scroll 0 0;
 }
 .home_2 .team-icon a:hover {
-    background: #fff;
+    background: #E8E2F9;
     color: #1b98e0;
 }
 .home_2 .team-icon {
@@ -1555,7 +1555,7 @@ margin-top:20px;
     transition: .5s;
 }
 .single_pricing {
-    background: #fff;
+    background: #E8E2F9;
     -webkit-transition: .5s;
     transition: .5s;
 }
@@ -2072,7 +2072,7 @@ button.send_btn:hover {
 .home_2 .input_box input,
 .home_2 .input_box textarea {
     border: 1px solid #ddd;
-    background: #fff;
+    background: #E8E2F9;
 }
 .home_2 .input_box input:focus,
 .home_2 .input_box textarea:focus {
@@ -2342,7 +2342,7 @@ button.send_btn:hover {
     position: relative;
 }
 .newsletter-inputbox input {
-    background: #fff none repeat scroll 0 0;
+    background: #E8E2F9 none repeat scroll 0 0;
     border: 1px solid #ddd;
     border-radius: 5px;
     color: #939393;
@@ -2442,11 +2442,11 @@ button.send_btn:hover {
  ------------------------*/
 
 .footer-bottom-area {
-    background: #191919 none repeat scroll 0 0;
+    background: rgba(22,20, 23, .8) none repeat scroll 0 0;
     padding: 30px 0 30px;
 }
 .container.bgfooter {
-    background: #fff;
+    background: #E8E2F9;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
     padding-top: 50px;
     padding-bottom: 40px;
@@ -2964,7 +2964,7 @@ blockquote {
     margin: 0 0 30px;
     font-size: 17.5px;
     border-left: 5px solid #eee;
-    background: #fff;
+    background: #E8E2F9;
 }
 .single-blog-details .single-blog .blog-inner {
     padding-bottom: 0px;
@@ -3075,7 +3075,7 @@ blockquote {
 }
 .relatade-blog.blog-area.home-5 {
     padding: 26px 0 70px;
-    background: #fff;
+    background: #E8E2F9;
 }
 /*--------------------
  * BLOG SIDEBAR  CSS
